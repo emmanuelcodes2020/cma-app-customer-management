@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+out/
+out/artifacts/.DS_Store
+target*
+*.iml
