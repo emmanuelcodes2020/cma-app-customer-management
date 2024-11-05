@@ -36,7 +36,7 @@ If you have any other version installed(should be higher than JDK 1.8), please m
 
 ## Unit Testing
 
-To verify every small change in the application, unit test cases have been written using JUnit5 and Mockito. You can run following command to run all test cases,
+To verify every small change in the application, unit test cases have been written using JUnit5 and Mockito. You can run following command to run all test cases and case,
 
 ```shell
 mvn test
